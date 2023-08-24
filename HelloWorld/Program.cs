@@ -25,17 +25,17 @@ namespace HelloWorld
 
 
             // Arithmetic operators//
-           /*  int a = 5;
-             int b = 3;
-             Console.WriteLine("addition :"+(a+b));
-             Console.WriteLine("subtraction :"+(a-b));
-             Console.WriteLine("multiplication:"+(a*b));
-             Console.WriteLine("division:"+(a/b));
-             Console.WriteLine("Modulus:"+(a%b));
-             Console.WriteLine("Increment:"+(a++));
-             Console.WriteLine(a);
-             Console.WriteLine("Decrement:"+(a--));
-             Console.WriteLine(a);   */
+            /*  int a = 5;
+              int b = 3;
+              Console.WriteLine("addition :"+(a+b));
+              Console.WriteLine("subtraction :"+(a-b));
+              Console.WriteLine("multiplication:"+(a*b));
+              Console.WriteLine("division:"+(a/b));
+              Console.WriteLine("Modulus:"+(a%b));
+              Console.WriteLine("Increment:"+(a++));
+              Console.WriteLine(a);
+              Console.WriteLine("Decrement:"+(a--));
+              Console.WriteLine(a);   */
 
 
             //Assignmnet operator//
@@ -73,7 +73,19 @@ namespace HelloWorld
 
               Console.WriteLine((a++) + (++a)); */
 
-          
+
+
+            // Comparison operators//
+            /*   int a = 5;
+               int b = 10;
+               Console.WriteLine(a == b);
+               Console.WriteLine(a != b);
+               Console.WriteLine(a > b);
+               Console.WriteLine(a < b);
+               Console.WriteLine(a >= b);
+               Console.WriteLine(a <= b);*/
+
+
         }
     }
 }
