@@ -75,19 +75,7 @@ namespace HelloWorld
 
 
 
-            // Comparison operators//
-            /*   int a = 5;
-               int b = 10;
-               Console.WriteLine(a == b);
-               Console.WriteLine(a != b);
-               Console.WriteLine(a > b);
-               Console.WriteLine(a < b);
-               Console.WriteLine(a >= b);
-               Console.WriteLine(a <= b);*/
-
-            // sanya gupta is try to use pull command//
-
-            // this is second try for //
+           
             
 
         }
